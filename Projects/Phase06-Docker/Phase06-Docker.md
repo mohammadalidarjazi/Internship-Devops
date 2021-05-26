@@ -34,7 +34,7 @@
     - dockerfile را build کنید و ان را داخل dockerhub اپلود کنید
 
 
-1. حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
+1. حالا بریم مفاهیم پیشرفته تری رو یاد بگیرم
     - volume in docker
     - network in docker
     - layered architecture
