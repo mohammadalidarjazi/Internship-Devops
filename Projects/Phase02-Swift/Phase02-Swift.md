@@ -35,8 +35,8 @@
 
     > :warning: مشخصات نصب:  
     - نصب پراکسی با tempauth
-    - نصب account Contaienr v Object server
-    - ساخت ring با  Replication 3 برای object و ریپلیکای 1 برای اکانت کانتینر
+    - نصب account Container v Object server
+    - ساخت ring با  Replication 3 برای object و ریپلیکای 1 برای account container
     - integrate swift with keystone
     - نصب Object Expirer
     
