@@ -30,4 +30,5 @@
      - pod QoS Classes 
      - Pod autoScaling
 
- 1. آشناییCluster federation
+
+ 1. آشنایی Cluster federation
