@@ -16,11 +16,9 @@
     - Proxy Server
     - Object Server
     - Account
-    - Account
-    - Account
     - Container
     - Object
-    - Replicatioan & Rsync
+    - Replication & Rsync
     - Ring
     - Storage Policy
     - Middleware & Pipeline
@@ -31,7 +29,7 @@
     - Recon
 
 1. بریم swift نصب کنیم :wink:
-    سیستم عامل شما ubuntu 18.04 
+    > :warning: سیستم عامل : ubuntu 18.04  | ubuntu 20.04 | CentOS 8
     > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
 
     مشخصات نصب:  
