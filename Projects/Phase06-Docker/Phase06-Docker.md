@@ -30,8 +30,8 @@
     - CMD
     - COPY
     - ADD
-    - dockerfile پروژه ی جنگوی خود را بسازید
-    - builde کنید و ان را داخل dockerhub اپلود کنید
+    - dockerfile پروژه ی django خود را بسازید
+    - dockerfile را build کنید و ان را داخل dockerhub اپلود کنید
 
 
 1. حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
