@@ -13,8 +13,7 @@
     - Container Images
     - Registry
 
-1. 
-    - docker  رو نصب کنید
+1. docker  رو نصب کنید
     - یک image دانلود و اجرا کنید
     - در مورد command های زیر بخونید
         - run
@@ -25,14 +24,12 @@
         - create v ...
 
 
-1. 
-    -  تعریف کردن داکرفایل برای بیلد کردن ایمیج ها داکری
-  
-        - FROM
-        - ENTRYPOINT
-        - CMD
-        - COPY
-        - ADD
+1. تعریف کردن dockerfile برای build کردن  image docker
+    - FROM
+    - ENTRYPOINT
+    - CMD
+    - COPY
+    - ADD
     - dockerfile پروژه ی جنگوی خود را بسازید
     - builde کنید و ان را داخل dockerhub اپلود کنید
 
