@@ -5,7 +5,7 @@
   
 در این فاز ابتدا به یادگیری مفهوم container میپردازیم و با docker  آشنا میشیم
 
-1.در مورد مفاهیم زیر تحقیق کنید
+1. در مورد مفاهیم زیر تحقیق کنید
     - Virtualization
     - Container consept
     - Docker vs virtual machine
