@@ -13,15 +13,15 @@
     - Container Images
     - Registry
 1. 
-   - docker  رو نصب کنید
-   - یک image دانلود و اجرا کنید
-   - در مورد command های زیر بخونید
-       - run
-       - detach
-       - rm
-       - it
-       - port, portmapping
-       - create v ...
+    - docker  رو نصب کنید
+    - یک image دانلود و اجرا کنید
+    - در مورد command های زیر بخونید
+        - run
+        - detach
+        - rm
+        - it
+        - port, portmapping
+        - create v ...
 1. 
     -  تعریف کردن داکرفایل برای بیلد کردن ایمیج ها داکری
   
@@ -32,6 +32,7 @@
         - ADD
     - dockerfile پروژه ی جنگوی خود را بسازید
     - builde کنید و ان را داخل dockerhub اپلود کنید
+    
 1. حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
     - volume in docker
     - network in docker
