@@ -6,4 +6,5 @@
 ## یادگیری oracle database 
 
 1. آشنایی با مفاهیم
-1. وصل کردن جنگو از postgre به oracle
+    - Relational database concept
+        - conseptهای اولیه database 
