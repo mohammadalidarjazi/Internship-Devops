@@ -20,11 +20,11 @@
   # مطالعه کارهای متادول 
  1. یادگیری texteditor
  1. استفاده از آپشن های مختلف
- 1. آشنایی با پکیج منیجر مانند apt yum
+ 1. آشنایی با package manager مانند apt yum
  1. آشنایی و پیاده سازی repository
  1. مطالعه lvm
  1. resize file system
- 1. معماری process های در linux
+ 1. معماری process ها در linux
  1. نوشتن سرویس در systemd
  1. نحوه جمع آوری و ارسال لاگ در لینوکس (rsyslog)
 
