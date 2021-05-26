@@ -7,4 +7,23 @@
 
 1. آشنایی با مفاهیم
     - Relational database concept
-        - conseptهای اولیه database 
+        - conseptهای اولیه database
+            - tps
+            - dblog
+            - listener
+            - usermanagement
+            - restrictions
+            - schema
+            - table
+            - trigger
+            - index
+
+
+1. بررسی Rational Database
+
+1. بررسی روش‌های scaling up
+    - اجزای scale up
+
+1. بررسی شباهت‌ها و تفاوت‌ها
+1. بررسی performances
+
