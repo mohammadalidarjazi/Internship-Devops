@@ -6,10 +6,10 @@
 
 [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase02.md)
 
-## آشنایی با object sotorage swift
-    -    سرویس swift چیست؟ ورژن های مختلف آن.
-    -   معماری طراحی  swift به چه شکل است؟
-    - سرویس keystone چیست؟
+## آشنایی با object storage swift
+- سرویس swift چیست؟ ورژن های مختلف آن.
+- معماری طراحی  swift به چه شکل است؟
+- سرویس keystone چیست؟
 
  1. مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
     - Proxy Server
