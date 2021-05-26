@@ -10,7 +10,7 @@
     - other container orchestration tools
     - microservice architecture
     - YAML
-1. در مورد کوبرنتیر و معماری آن
+1. در مورد kubernetes و معماری آن
     - pod
     - Lable
     - etcd
@@ -22,13 +22,13 @@
     - container-runtime
 1. نصب kubernetes
     > :warning: نصب با استفاده از miniqkube
-# deploy کردن پروژه ی جنگو 
+# deploy کردن پروژه ی django 
  
  
- 1. مفاهیم زیر را یادبگیریم
+ 1. مفاهیم زیر را یاد بگیریم
      - pod
      - service
-     - replicationcontroller vs resplicaset
+     - replication controller vs resplicaset
      - deployment
      - statefullset
      - daemonset
@@ -36,4 +36,4 @@
      - volume
      - configmap 
      - secret
- 1. پروژهی خود را روی کلاستر کوبرنتیز دپلوی کنید
+ 1. پروژه ی خود را روی cluster kubernetes دپلوی کنید
