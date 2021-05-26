@@ -21,7 +21,7 @@
     - kube-proxy
     - container-runtime
 1. نصب kubernetes
-    > :warning: نصب با استفاده از miniqkube
+    > :warning: نصب با استفاده از minikube
 # deploy کردن پروژه ی django 
  
  
