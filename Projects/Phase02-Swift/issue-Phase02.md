@@ -3,10 +3,10 @@
 
 ## لیست کارهای تحویلی 
 
-1.  swift نصب 
+1.  نصب swift  
     > :warning: سیستم عامل : ubuntu 18.04  | ubuntu 20.04 | CentOS 8
 
-    > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
+    > :warning: ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
 
     > :warning: مشخصات نصب:  
     - نصب پراکسی با tempauth
