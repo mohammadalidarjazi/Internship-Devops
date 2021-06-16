@@ -9,14 +9,14 @@
 - https://www.amazon.com/Red-RHCSA-Cert-Guide-Certification/dp/0135938139
   
   # نصب سیستم عامل 
- 1. استانداردهای نصب
- 1. نحوه پارتیشن بندی
- 1. مدیریت پکیج های نصب شده
+ 1. استانداردهای نصب سیستم عامل چیست؟
+ 1. نحوه پارتیشن بندی هنگام نصب سیستم عامل چگونه است؟
+ 1. مدیریت پکیج های نصب شده پس از نصب سیستم عامل چگونه است؟
 
   # linux Hierarchy file system 
  1. نقش directory etc 
- 1. var
- 1. root v home v tmp
+ 1. نقش var
+ 1. root v home v tmp نقش
  
   # مطالعه کارهای متداول 
  1. یادگیری texteditor
