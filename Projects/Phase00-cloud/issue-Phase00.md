@@ -1,4 +1,4 @@
-<div dir="rtl" align='right'>
+<!-- <div dir="rtl" align='right'> -->
 
 
 This issue template is based of [Phase00-cloud.md](./Phase00-cloud.md) contents.
