@@ -3,9 +3,9 @@
 
 [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase01.md)
 
-##  آشنایی لینوکس 
+##  آشنایی Linux 
  
-در این فاز با لینوکس و دستور‌های آن بیشتر آشنا میشویم
+در این فاز با Linux و دستور‌های آن بیشتر آشنا میشویم
 - https://www.amazon.com/Red-RHCSA-Cert-Guide-Certification/dp/0135938139
   
   # نصب سیستم عامل 
