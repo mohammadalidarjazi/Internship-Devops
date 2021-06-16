@@ -1,4 +1,9 @@
-1. بریم swift نصب کنیم :wink:
+<div dir="rtl" text-align='right'>
+
+
+## لیست کارهای تحویلی 
+
+1.  swift نصب 
     > :warning: سیستم عامل : ubuntu 18.04  | ubuntu 20.04 | CentOS 8
 
     > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
