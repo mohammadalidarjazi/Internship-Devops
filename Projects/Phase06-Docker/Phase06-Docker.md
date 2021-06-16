@@ -1,6 +1,7 @@
 <div dir="rtl" align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase06.md)
+-بیشتر بخوانیم:
+ 
  ## آشنایی با docker
   
 در این فاز ابتدا به یادگیری مفهوم container میپردازیم و با docker  آشنا میشیم
