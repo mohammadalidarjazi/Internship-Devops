@@ -17,7 +17,7 @@
  1. var
  1. root v home v tmp
  
-  # مطالعه کارهای متادول 
+  # مطالعه کارهای متداول 
  1. یادگیری texteditor
  1. استفاده از آپشن های مختلف
  1. آشنایی با package manager مانند apt yum
