@@ -11,6 +11,7 @@
     - سرویس swift چیست؟ ورژن های مختلف آن.
     - معماری طراحی  swift به چه شکل است؟
     - سرویس keystone چیست؟
+-	https://docs.openstack.org/swift/latest/
 
  1. مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
     - Proxy Server
