@@ -1,3 +1,6 @@
+<div dir="rtl" text-align='right'>
+
+
  #### پروژه elsastic seach
     1. نصب elsastic seach تک node
     1. طراحی کلاستر در محیط ویژوال
