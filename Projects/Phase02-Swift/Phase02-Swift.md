@@ -13,7 +13,7 @@
     - سرویس keystone چیست؟
 -	https://docs.openstack.org/swift/latest/
 
- 1. مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
+ 1. مفاهیم زیر که مرتبط با swift هستند راو مطالعه کرده وارائه دهید
     - Proxy Server
     - Object Server
     - Account
