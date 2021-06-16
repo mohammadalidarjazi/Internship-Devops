@@ -5,7 +5,8 @@ This issue template is based of [Phase00-cloud.md](./Phase00-cloud.md) contents.
 Click on "Raw" button on right side of this page to see original markdown then create a new issue with orginal content of this tasklist:
 
 - [ ] نتایج مطالعات خود را به صورت یک فایل پاورپوینت ذخیره و ارائه کنید
-
+-
+<!-- 
   - [ ] Install **.Net Core 3.1**
   - [ ] Install these VS Code **Extensions**:
 
@@ -52,4 +53,4 @@ Link of other PR(s) you agreed to review:
 
 - [ ] Your own PR is merged.
 
-. 
+.  -->
