@@ -35,5 +35,8 @@
   - در مورد مفاهیم object storage و file storage  و block storage  مطالعه کنید. چه تفاوت های دارند؟
   - تفاوت swift  به عنوان یک  object storage   و mysql  به عنوان یک sql database و یا elastic به عنوان یک nosql در چیست ؟
   - انواع object storage  ها و block storage ها را نام ببرید. (به صورت دقیقتر  object storage systems and block storage systems)
-    تفاوت ceph , swift
+  - تفاوت ceph , swift
+-	https://ceph.io/
+-	https://ceph.io/geen-categorie/ceph-and-swift-why-we-are-not-fighting/
+
 </div>
