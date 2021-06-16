@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase05.md)
+<!-- [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase05.md) -->
 
 
 ## یادگیری oracle database 

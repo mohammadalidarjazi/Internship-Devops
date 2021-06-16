@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase07.md)
+<!-- [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase07.md) -->
 
 ## در این فاز با مفاهیم orchastration آشنا میشیم و بعد از با kubernetes  کار میکنیم
 

@@ -1,7 +1,7 @@
 <div dir="rtl" align='right'>
 
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase01.md)
+[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase04.md)
 
   # GIT
 1. در ارتباط با مفاهیم زیر تحقیق کنید.

@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase08.md)
+<!-- [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase08.md) -->
 
 
 1. نصب cluster kubernetes با معماری HA
