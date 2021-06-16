@@ -1,7 +1,7 @@
 <div dir="rtl" align='right'>
 
-[لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase07.md)
-
+- بیشتر بخوانیم:
+    
 ## در این فاز با مفاهیم orchastration آشنا میشیم و بعد از با kubernetes  کار میکنیم
 
 1. در مورد مفاهیم زیر تحقیق کنید
